@@ -1,4 +1,4 @@
-# suduko_slover
+# suduko_solver
 This code is an implementation of the backtracking algorithm to solve a 9x9 Sudoku puzzle. Sudoku is a number-placement puzzle where the objective is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids (boxes) contain all of the digits from 1 to 9 without repetition.
 
 Let's go through the code step by step:
